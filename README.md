@@ -11,7 +11,7 @@ To run, use one of the following options:
 
 Then access http://localhost:8080
 
-Thanks to the inclusion of the Spring (actuator module)[http://docs.spring.io/spring-boot/docs/1.1.4.RELEASE/reference/htmlsingle/#production-ready],
+Thanks to the inclusion of the Spring [actuator module](http://docs.spring.io/spring-boot/docs/1.1.4.RELEASE/reference/htmlsingle/#production-ready),
 some management services are provided out of the box too, including:
 * http://localhost:8080/environment
 * http://localhost:8080/health
